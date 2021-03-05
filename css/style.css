@@ -1,0 +1,13 @@
+body 
+{ 
+	background: rgb(38, 76, 201); 
+	font: 18px Arial, sans-serif; 
+} 
+h1 
+{ 
+	color: orange; 
+}
+p
+{
+    color: red;
+}
